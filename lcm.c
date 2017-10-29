@@ -16,7 +16,6 @@ int main() {
   hcf = a;
   lcm = (x*y)/hcf;
  
-  printf("Greatest common divisor of %d and %d = %d\n", x, y, hcf);
   printf("Least common multiple of %d and %d = %d\n", x, y, lcm);
  
   return 0;
